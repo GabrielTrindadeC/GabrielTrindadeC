@@ -15,6 +15,4 @@
   <img align="center" alt="Gabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   <br>
-  ![Snake animation](https://github.com/gabrieltrindadec/gabrieltrindadec/blob/output/github-contribution-grid-snake.svg)
- 
 <img src="https://komarev.com/ghpvc/?username=gabrieltrindadec&color=green" alt="gabrieltrindadec" /> 
