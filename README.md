@@ -2,7 +2,6 @@
   <div>
    <a href="https://github.com/gabrieltrindadec">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrieltrindadec&show_icons=true&theme=synthwave"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieltrindadec&layout=compact)](https://github.com/gabrieltrindadec  /github-readme-stats"/>
   </div>
   
   <div style="display: inline_block"><br>
