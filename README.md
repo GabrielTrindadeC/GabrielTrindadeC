@@ -2,7 +2,7 @@
 ## Sobre
 Graduado em Análise e Desenvolvimento de
 Sistemas, possuo experiência profissional em
-desenvolvimento de aplicações SPA, REST API e mobile.
+desenvolvimento de aplicações SPA, REST API, BFF e mobile.
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-trindadec/)
